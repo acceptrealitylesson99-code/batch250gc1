@@ -64,6 +64,6 @@ $("box5")
   })
 
   $("#apply").click(function(){
-    $("#box3").html("its has been  changed <b> applying effect</b> ")
+    $("#box3").html("its has been  changed <b> applying effect</b> and <i> italic effect</i> ")
   })
 });
